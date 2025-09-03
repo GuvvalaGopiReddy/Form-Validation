@@ -10,33 +10,33 @@ This is a simple web-based user authentication system built using HTML, CSS, and
 
   	-->Valid email
 
-  -->Valid 10-digit phone number
+  	-->Valid 10-digit phone number
 
-  -->Secure password (min. 8 chars, not "password" or name)
+  	-->Secure password (min. 8 chars, not "password" or name)
 
-  -->Password strength indicator
+  	-->Password strength indicator
 
-  -->Real-time validation with visual feedback
+  	-->Real-time validation with visual feedback
 
 2. Login System:
 
-  -->Email & password-based login
+  	-->Email & password-based login
 
-  -->Error message on invalid login
+  	-->Error message on invalid login
 
-  -->Persistent login using local Storage
+  	-->Persistent login using local Storage
 
 3. Dashboard:
 
-  -->Displays logged-in user info
+  	-->Displays logged-in user info
 
-  -->Option to logout
+  	-->Option to logout
 
 4. Password Requirements Panel:
 
-  -->Live check for common password mistakes
+  	-->Live check for common password mistakes
 
-  -->Visual cues for requirement validation
+  	-->Visual cues for requirement validation
 
 📦 Tech Stack
 
