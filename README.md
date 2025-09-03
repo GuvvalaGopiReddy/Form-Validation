@@ -6,9 +6,9 @@ This is a simple web-based user authentication system built using HTML, CSS, and
 
 1. User Registration with validation:
 
-  -->Full name (min. 5 characters)
+  	-->Full name (min. 5 characters)
 
-  -->Valid email
+  	-->Valid email
 
   -->Valid 10-digit phone number
 
